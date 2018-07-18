@@ -10,11 +10,11 @@
 
 * Test your function by calling it with different values and printing the results.
 
-- - -
-
 ## Hints
 
 * [Arithmetic Mean (Average)](https://en.wikipedia.org/wiki/Arithmetic_mean)
+
+- - -
 
 ## Results
 ![Alt text](Images/terminaloutput.png)

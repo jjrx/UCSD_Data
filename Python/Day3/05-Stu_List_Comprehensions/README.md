@@ -19,3 +19,10 @@ In this activity, you will use list comprehensions to compose a wedding invitati
 ## Hints
 
 * See the documentation for the [title](https://docs.python.org/3/library/stdtypes.html#str.title) method.
+
+## Results
+![Alt text](Images/terminaloutput.png)
+
+## Notes
+- Is lowercased list necessary?
+  - Was the list comprehension for `titlecased` supposed to be `[name.title() for name in lowercased]`?

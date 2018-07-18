@@ -15,3 +15,6 @@
 ## Hints
 
 * [Arithmetic Mean (Average)](https://en.wikipedia.org/wiki/Arithmetic_mean)
+
+## Results
+![Alt text](Images/terminaloutput.png)

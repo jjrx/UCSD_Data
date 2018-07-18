@@ -19,3 +19,8 @@
 ### Bonus
 
 * Create a version of the same code which allows a user to select as much candy as they want up until they say they do not want any more.
+
+## Results
+![Alt text](Images/terminaloutput.png)
+Bonus:
+![Alt text](Images/terminaloutputbonus.png)

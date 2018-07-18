@@ -13,3 +13,9 @@
 ## Bonus
 
 * Try the following again but this time using `cereal_bonus.csv`, which does not include a header.
+
+## Results
+![Alt text](Images/terminaloutput.png)
+
+## Notes
+- For bonus: simply remove csv_header = next(csvreader) since it has no header row

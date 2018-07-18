@@ -13,3 +13,6 @@
 ## Bonus
 
 * Still within the `getPercentages()` function, create a conditional that checks a wrestler's loss percentage and prints either "Jobber" to the screen if the number was greater than fifty or "Superstar" if the number was less than 50.
+
+## Results
+![Alt text](Images/terminaloutput.png)

@@ -18,4 +18,5 @@ Chain up the numbers
 
 ## Results
 ![Alt text](Images/terminaloutput.png)
+Bonus:
 ![Alt text](Images/terminaloutputbonus.png)

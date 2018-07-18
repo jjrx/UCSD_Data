@@ -21,3 +21,9 @@
 * Find the percent of subscribers that have also left a review on the course. Include this in your final output.
 
 * Parse the string associated with course length, such that we store it as an integer instead of a string. (i.e. "4 hours" should be converted to 4).
+
+## Results
+![Alt text](Images/exceloutput.png)
+
+## Notes
+-could have converted to `int` while appending instead of during `percent_subscribers` calculation

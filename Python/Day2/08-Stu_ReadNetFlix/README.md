@@ -13,3 +13,7 @@ Finding the info to some of netlfix's most popular videos
   * For example "Pup Star is rated G with a rating of 82"
 
 * If the CSV does not contain the user's video then print out a message telling them that their video could not be found.
+
+## Results
+![Alt text](Images/directories.png)
+![Alt text](Images/terminaloutput.png)

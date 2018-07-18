@@ -17,3 +17,6 @@
 ## Hints
 
 * Remember to cast!
+
+## Results
+![Alt text](Images/terminaloutput.png)

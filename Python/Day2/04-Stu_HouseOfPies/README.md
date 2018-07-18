@@ -38,3 +38,5 @@ You purchased:
 0 Tamale
 1 Steak
 ```
+## Results
+![Alt text](Images/terminaloutput.png)

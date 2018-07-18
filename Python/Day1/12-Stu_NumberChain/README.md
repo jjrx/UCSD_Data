@@ -15,3 +15,7 @@ Chain up the numbers
 ## Bonus
 
 * Rather than just displaying numbers constantly starting at 0, have the numbers start at the end of the previous chain.
+
+## Results
+![Alt text](Images/terminaloutput.png)
+![Alt text](Images/terminaloutputbonus.png)

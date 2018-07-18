@@ -7,3 +7,6 @@
 * Create two more inputs that will ask how many months each of you have been coding.
 
 * Finally, display a result with both your names and the total amount of months coding.
+
+## Results
+![alt text](Images/terminaloutput.png)

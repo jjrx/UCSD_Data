@@ -15,3 +15,6 @@ Create a RPS games that takes user input from the command line and plays against
 * Make sure to `import random` is at the top of your code.
 
 * Look into this [stackoverflow](https://stackoverflow.com/questions/306400/how-to-randomly-select-an-item-from-a-list) question for usage.
+
+## Results
+![Alt text](Images/terminaloutput.png)

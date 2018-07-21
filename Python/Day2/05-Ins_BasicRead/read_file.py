@@ -1,5 +1,5 @@
 # Store the file path associated with the file (note the backslash may be OS specific)
-file = '../Resources/input.txt'
+file = 'Resources/input.txt'
 
 # Open the file in "read" mode ('r') and store the contents in the variable "text"
 with open(file, 'r') as text:

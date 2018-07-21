@@ -1,7 +1,7 @@
 import os
 import csv
 
-udemy_csv = os.path.join("..", "Resources", "web_starter.csv")
+udemy_csv = os.path.join("Resources", "web_starter.csv")
 
 # Lists to store data
 title = []

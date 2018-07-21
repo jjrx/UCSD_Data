@@ -3,7 +3,7 @@ import os
 import csv
 
 # Specify the file to write to
-output_path = os.path.join("..", "output", "new.csv")
+output_path = os.path.join("output", "new.csv")
 
 # Open the file using "write" mode. Specify the variable to hold the contents
 with open(output_path, 'w', newline='') as csvfile:

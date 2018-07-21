@@ -1,7 +1,7 @@
 import os
 import csv
 
-cereal_csv = os.path.join("..", "Resources", "cereal.csv")
+cereal_csv = os.path.join("Resources", "cereal.csv")
 
 # Open and read csv
 with open(cereal_csv, newline="") as csvfile:

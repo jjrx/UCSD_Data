@@ -33,5 +33,6 @@ print(f'{another_actor["name"]} was in {another_actor["best movies"][0]}')
 # A dictionary can even contain another dictionary
 film = {"title": "Interstellar",
         "revenues": {"United States": 360, "China": 250, "United Kingdom": 73}}
-print(f'{film["title"]} made {film["revenues"]["United States"]}'" in the US.")
+# print(f'{film["title"]} made {film["revenues"]["United States"]}'" in the US.")
+print(f"{film['title']} made {film['revenues']['United States']} in the US.")
 # ---------------------------------------------------------------

@@ -2,7 +2,7 @@ import os
 import csv
 
 # Path to collect data from the Resources folder
-wrestlingCSV = os.path.join('..', 'Resources', 'WWE-Data-2016.csv')
+wrestlingCSV = os.path.join('Resources', 'WWE-Data-2016.csv')
 
 
 # Define the function and have it accept the 'wrestlerData' as its sole parameter
